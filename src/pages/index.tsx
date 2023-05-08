@@ -11,6 +11,7 @@ export default function Home() {
     <Header>
 
 <div>Ceci est mon header</div>
+<div>Je dois l'enlever ?</div>
 
     </Header>
     <About></About>
